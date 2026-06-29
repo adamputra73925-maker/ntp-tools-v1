@@ -1,0 +1,4 @@
+-keep class com.nova.ntptools.** { *; }
+-keep class dev.rikka.shizuku.** { *; }
+-dontwarn org.apache.commons.net.**
+-keep class org.apache.commons.net.** { *; }

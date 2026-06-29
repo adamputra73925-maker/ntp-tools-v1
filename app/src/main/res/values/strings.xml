@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NTP Tools</string>
+    
+    <!-- Login -->
+    <string name="login_title">NTP Tools Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_error">Username atau password salah!</string>
+    
+    <!-- Main -->
+    <string name="drag_hs_title">Drag HS</string>
+    <string name="drag_hs_description">Geser untuk set 20%</string>
+    <string name="dpi_switch_title">DPI 520</string>
+    <string name="dpi_switch_description">Aktifkan untuk set DPI ke 520</string>
+    <string name="shizuku_permission">Izin Shizuku</string>
+    <string name="shizuku_description">Berikan akses Shizuku untuk operasi system</string>
+    <string name="notification_title">NTP Tools</string>
+    <string name="notification_desc">Allow All Time untuk notifikasi</string>
+    <string name="sync_button">Sync NTP</string>
+    <string name="sync_success">Sinkronisasi berhasil!</string>
+    <string name="sync_error">Sinkronisasi gagal!</string>
+</resources>
